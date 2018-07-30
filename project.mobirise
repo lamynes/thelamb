@@ -55,7 +55,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 35,
+    "uniqCompNum": 37,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "siteUrl": "",
@@ -200,6 +200,26 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
+          "_params": {}
+        },
+        {
+          "_name": "extSlider1",
+          "_styles": {
+            "H2": {
+              "color": "#fac51c",
+              "text-align": "center",
+              "font-size": "80px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "extSlider1-z",
+          "_cid": "qZjMGrSyMJ",
+          "_protectedParams": [],
           "_params": {}
         },
         {
