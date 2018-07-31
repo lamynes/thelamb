@@ -58,7 +58,7 @@
     "uniqCompNum": 42,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
-    "siteUrl": "",
+    "siteUrl": "https://thelambandthehomelessman.com",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -67,7 +67,8 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "firebaseSnippet": ""
+    "firebaseSnippet": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
