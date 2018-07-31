@@ -1491,8 +1491,13 @@ body {
 .cid-qZacvUl871 .mbr-author-name {
   font-weight: bold;
   color: #232;
+  text-align: center;
 }
 .cid-qZacvUl871 .mbr-author-desc {
+  color: #8a33ff;
+  text-align: center;
+}
+.cid-qZacvUl871 .mbr-author-desc B {
   color: #8a33ff;
 }
 .cid-qZjMGrSyMJ H2 {
