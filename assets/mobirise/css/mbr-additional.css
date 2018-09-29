@@ -1548,6 +1548,21 @@ body {
 .cid-qZ8R0cBioH B {
   color: #7b38f5;
 }
+.cid-r53D1IQtpa {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/charging-bull-png-8w-1024x813.png");
+}
+.cid-r53D1IQtpa .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r53D1IQtpa .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r53D1IQtpa H2 {
+  color: #000000;
+  text-align: left;
+}
 .cid-qZ8NEthHh1 .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -2006,18 +2021,4 @@ body {
 }
 .cid-qZduZhQPnD .media-container-row .row-copirayt p {
   width: 100%;
-}
-.cid-r53D1IQtpa {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/charging-bull-png-8w-1024x813.png");
-}
-.cid-r53D1IQtpa .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r53D1IQtpa .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-r53D1IQtpa H2 {
-  color: #000000;
 }
