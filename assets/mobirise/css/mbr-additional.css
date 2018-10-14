@@ -1377,7 +1377,7 @@ body {
 }
 .cid-qZfMCw8xIB {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #8a33ff;
 }
 .cid-qZfMCw8xIB .mbr-section-subtitle {
@@ -1387,9 +1387,31 @@ body {
   color: #ffffff;
   text-align: center;
 }
+.cid-r6uvNs62Bd {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: #8a33ff;
+  background: linear-gradient(0deg, #ffffff, #8a33ff);
+}
+.cid-r6uvNs62Bd .image-block {
+  margin: auto;
+}
+.cid-r6uvNs62Bd figcaption {
+  position: relative;
+}
+.cid-r6uvNs62Bd figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r6uvNs62Bd .image-block {
+    width: 100% !important;
+  }
+}
 .cid-r3aP0VWPRy {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-r3aP0VWPRy .mbr-text,
@@ -1418,6 +1440,28 @@ body {
   .cid-qZfMnebQFH .image-block {
     width: 100% !important;
   }
+}
+.cid-qZacvUl871 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qZacvUl871 .testimonial-text {
+  font-style: italic;
+  color: #000000;
+  font-weight: 300;
+}
+.cid-qZacvUl871 .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+  text-align: center;
+}
+.cid-qZacvUl871 .mbr-author-desc {
+  color: #8a33ff;
+  text-align: center;
+}
+.cid-qZacvUl871 .testimonial-text SPAN {
+  color: #000000;
 }
 .cid-r3aQlTHgUY {
   padding-top: 45px;
@@ -1481,23 +1525,6 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-qZacvUl871 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qZacvUl871 .testimonial-text {
-  font-style: italic;
-  color: #000000;
-  font-weight: 300;
-}
-.cid-qZacvUl871 .mbr-author-name {
-  font-weight: bold;
-  color: #232;
-}
-.cid-qZacvUl871 .mbr-author-desc {
-  color: #8a33ff;
-}
 .cid-qZadYZ5NXw {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -1547,21 +1574,6 @@ body {
 }
 .cid-qZ8R0cBioH B {
   color: #7b38f5;
-}
-.cid-r53D1IQtpa {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/charging-bull-png-8w-1024x813.png");
-}
-.cid-r53D1IQtpa .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r53D1IQtpa .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-r53D1IQtpa H2 {
-  color: #000000;
-  text-align: left;
 }
 .cid-qZ8NEthHh1 .navbar {
   padding: .5rem 0;
@@ -1952,9 +1964,21 @@ body {
 .cid-qZ8NEthHh1 .dropdown-item:hover {
   color: #8a33ff !important;
 }
-.cid-qZduZhQPnD {
+.cid-r6uylVYhVx {
   padding-top: 90px;
   padding-bottom: 90px;
+  background: linear-gradient(0deg, #8a33ff, #ffffff);
+}
+.cid-r6uylVYhVx .mbr-iconfont-social {
+  font-size: 32px;
+  color: #8a33ff;
+}
+.cid-r6uylVYhVx .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qZduZhQPnD {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/32158517-10160358891130072-2370085884486746112-n-820x312.jpg");
 }
 .cid-qZduZhQPnD .row-links {
