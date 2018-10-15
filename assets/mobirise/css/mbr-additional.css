@@ -1577,12 +1577,12 @@ body {
 }
 .cid-qZ8NEthHh1 .navbar {
   padding: .5rem 0;
-  background: #000000;
+  background: #8a33ff;
   transition: none;
   min-height: 77px;
 }
 .cid-qZ8NEthHh1 .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #8a33ff;
 }
 .cid-qZ8NEthHh1 a {
   font-style: normal;
@@ -1666,7 +1666,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qZ8NEthHh1 .dropdown .dropdown-menu {
-  background: #000000;
+  background: #8a33ff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1975,77 +1975,4 @@ body {
 }
 .cid-r6uylVYhVx .social-list a:focus {
   text-decoration: none;
-}
-.cid-qZduZhQPnD {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/144000-6533c03b33c340d7a34b227876e8eb33-mv2-1-1024x227.png");
-}
-.cid-qZduZhQPnD .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-qZduZhQPnD .social-row {
-  width: 100%;
-  justify-content: center;
-}
-.cid-qZduZhQPnD .media-container-row {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.cid-qZduZhQPnD .media-container-row .foot-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-qZduZhQPnD .media-container-row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-qZduZhQPnD .media-container-row .foot-menu li p {
-  margin: 0;
-}
-.cid-qZduZhQPnD .media-container-row .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qZduZhQPnD .media-container-row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
-}
-.cid-qZduZhQPnD .media-container-row .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qZduZhQPnD .media-container-row .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qZduZhQPnD .media-container-row .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qZduZhQPnD .media-container-row .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-.cid-qZduZhQPnD .media-container-row .row-copirayt {
-  word-break: break-word;
-  width: 100%;
-}
-.cid-qZduZhQPnD .media-container-row .row-copirayt p {
-  width: 100%;
-}
-.cid-qZduZhQPnD .media-container-row .mbr-text {
-  color: #8a33ff;
 }
